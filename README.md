@@ -3,7 +3,9 @@
 [![Coverage Status](https://coveralls.io/repos/github/SSENSE/vue-scheduler/badge.svg?branch=master)](https://coveralls.io/github/SSENSE/vue-scheduler?branch=master)
 [![Latest Stable Version](https://img.shields.io/npm/v/@ssense/vue-carousel.svg)](https://www.npmjs.com/package/@ssense/vue-scheduler)
 
-> A Vue component to do X, Y and Z!
+> A Vue component to schedule a date & time based on available dates
+
+![screenshot](https://github.com/uptownhr/vue-scheduler/blob/master/vue-scheduler.png?raw=true)
 
 ## Table of Contents
 - [Installation](#installation)
